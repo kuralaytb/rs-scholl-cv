@@ -32,9 +32,9 @@ function toCamelCase(str){
 ```
 ### Education
 1. Almaty University of Power Engineering and Telecommunications
-Bachelor degree of Information Systems
+Bachelor degree in Information Systems
 2. Suleyman Demirel University
-Masters degree of Computer Science 
+Masters degree in Computer Science 
 ### Languages
  * English - B1 (Intermediate)
  * Russian - fluently
