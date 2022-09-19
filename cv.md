@@ -9,7 +9,7 @@ I have an IT background. I never worked as a developer, but I always want it. Af
  * HTML, CSS (basic) 
  * JavaScript (basic)
  * Python 
- * Java(basic)
+ * Java (basic)
  * Git/Github
 ### Code example
 ```javascript
